@@ -1,0 +1,6 @@
+use_frameworks!
+target 'TLBSuperImages_Tests' do
+  pod 'TLBSuperImages', :path => '../'
+  
+  
+end
