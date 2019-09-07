@@ -1,0 +1,22 @@
+{
+  "name": "TLBSuperImages",
+  "version": "0.1.0",
+  "summary": "A short description of TLBSuperImages.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Alireza/TLBSuperImages",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Alireza": "ali.tlb35@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/Alireza/TLBSuperImages.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "TLBSuperImages/Classes/**/*"
+}

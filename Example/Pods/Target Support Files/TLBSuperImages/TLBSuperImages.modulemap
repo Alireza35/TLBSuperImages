@@ -1,0 +1,6 @@
+framework module TLBSuperImages {
+  umbrella header "TLBSuperImages-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,16 @@
+PODS:
+  - TLBSuperImages (0.1.0)
+
+DEPENDENCIES:
+  - TLBSuperImages (from `../`)
+
+EXTERNAL SOURCES:
+  TLBSuperImages:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TLBSuperImages: 82fc340084c9df0ab8e6267333795a377ba889a9
+
+PODFILE CHECKSUM: c325016b61e1df2821e0fbe984abfcca30d5a9eb
+
+COCOAPODS: 1.7.5
